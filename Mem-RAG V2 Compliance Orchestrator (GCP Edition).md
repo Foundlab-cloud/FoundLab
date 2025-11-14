@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="docs/banner-memrag-gcp.png"
-       alt="FoundLab — Mem-RAG V2 Compliance Orchestrator (GCP Edition)"
-       width="100%" />
+<img src="https://i.ibb.co/ccj8Mdky/LOGO-OK1.png" alt="FoundLab" width="180" />
 </p>
 
 <p align="center">
@@ -213,6 +211,6 @@ Distribuído sob a licença **Apache 2.0**. Veja `LICENSE` para mais informaçõ
 
 -----
 
-\<p align="center"\>
-\<b\>FoundLab\</b\> — \<i\>Building the Trust Layer for Enterprise AI.\</i\>
-\</p\>
+<p align="center"\>
+<img src="https://i.ibb.co/ccj8Mdky/LOGO-OK1.png" alt="FoundLab" width="180" />
+</p\>
